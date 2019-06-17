@@ -6,7 +6,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    //Inifinite View Pager
+    //Inifinite View Pager Example
     internal var movieList: MutableList<Movie> = ArrayList()
 
     override fun onCreate(savedInstanceState: Bundle?) {
